@@ -1,0 +1,12 @@
+No safe area value available. Make sure you are rendering `<SafeAreaProvider>` at the top of your app.
+Error: No safe area value available. Make sure you are rendering `<SafeAreaProvider>` at the top of your app.
+    at b (react-native-safe-area-context.js:3:2950)
+    at t.SafeAreaView (react-native-safe-area-context.js:3:2320)
+    at Ti ([snack internals]
+    at Vs ([snack internals]
+    at js ([snack internals]
+    at Ys ([snack internals]
+    at ks ([snack internals]
+    at [snack internals]
+    at t.unstable_runWithPriority ([snack internals]
+    at lo (https://snack.expo.io/web-player/37/static/js/2.a31c17df.chunk.js:1:1004746)
